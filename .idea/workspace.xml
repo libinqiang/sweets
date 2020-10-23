@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e52bb5b-afe0-4220-aff9-ef217ec9d8dd" name="Default Changelist" comment="" />
+    <list default="true" id="1e52bb5b-afe0-4220-aff9-ef217ec9d8dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/classes/com/macro/sweets/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-common/target/sweets-common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/classes/com/macro/sweets/SweetsCodeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-mbg/target/sweets-mbg-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-security/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-security/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweets-security/target/sweets-security-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sweets-admin/target/" />
@@ -114,6 +134,21 @@
               <item name="sweets" type="b2602c69:ProjectViewProjectNode" />
               <item name="sweets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sweets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweets" type="462c0819:PsiDirectoryNode" />
+              <item name="sweets-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sweets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweets" type="462c0819:PsiDirectoryNode" />
+              <item name="sweets-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sweets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweets" type="462c0819:PsiDirectoryNode" />
+              <item name="sweets-mbg" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -126,7 +161,7 @@
     <property name="SearchEverywhereHistoryKey" value="GlobalConfig&#9;PSI&#9;JAVA://com.baomidou.mybatisplus.core.config.GlobalConfig" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603425405239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603425434895" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-plus-generator-ui-master/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -209,12 +244,12 @@
       <workItem from="1602380967078" duration="2347000" />
       <workItem from="1603205312473" duration="1381000" />
       <workItem from="1603379584138" duration="1538000" />
-      <workItem from="1603422498710" duration="1826000" />
+      <workItem from="1603422498710" duration="2148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39844000" />
+    <option name="totallyTimeSpent" value="40166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
